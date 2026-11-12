@@ -8,6 +8,15 @@ Solo la estructura: los prompts de ejemplo de Diana son privados y no van aquí.
 - Gancho final **sin** «dale me gusta»: termina en «La continuación está en el primer comentario.»
 - **Marcas reales permitidas** (motos, ropa, objetos): ayudan a que el público conecte con la novela.
 
+## Estilo visual (aprobado por Diana, a partir de sus videos)
+- **Telenovela cinematográfica hiperrealista:** actores latinos realistas, piel y ropa muy detalladas, luz de día clara y tonos cálidos.
+- **Lugares reconocibles y con vida:** cárcel, playa de hotel, velorio… siempre con gente al fondo reaccionando.
+- **Arranca en plena pelea:** el primer segundo ya tiene acción (algo volando, un brazo agarrado).
+- **Cámara pegada a la acción:** planos medios en la pelea, primeros planos de caras (llanto, rabia) y de objetos clave (tatuaje, tijeras, ataúd).
+- **Cierre muy cerca de la cara:** el protagonista mira a cámara con rabia o determinación para el gancho final.
+- **Personajes muy marcados:** villano grande y tatuado, víctima mayor, héroe joven y atractivo, rival elegante y arrogante.
+- **También en las discusiones** debe haber acción física (empujar, agarrar, tirar objetos), nunca solo diálogo.
+
 ---
 
 ## CONFIGURACIÓN GENERAL
