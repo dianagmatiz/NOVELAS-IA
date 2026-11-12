@@ -20,6 +20,7 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
 - **Receta y estilo visual aprobados por Diana:** `contexto/receta-y-estilo.md`. Todos los agentes la siguen.
 - Formato **9:16 vertical** (reel de Facebook), resolución **720p SIEMPRE**.
 - **Sin subtítulos** ni texto en pantalla (decisión de Diana).
+- En la edición **sí se usan animaciones de HyperFrames** (transiciones, efectos, movimientos de cámara, sonidos de impacto), sin tapar caras ni diálogos.
 - Duración: **1 video de ~30 s** o **2 partes de ~20 s**. **Antes de empezar cada novela, preguntar a Diana cuál de las dos prefiere.**
 - Modelo de generación: **Seedance 2.5** en Higgsfield, con **voces y diálogos sincronizados** generados por Higgsfield.
 - Prioridad: **máxima calidad gastando la menor cantidad de créditos posible**:
