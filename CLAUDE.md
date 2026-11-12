@@ -17,6 +17,7 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
 - Se entregan **borradores**. Diana aprueba y recién ahí se avanza.
 
 ## Reglas de los videos
+- **Receta y estilo visual aprobados por Diana:** `contexto/receta-y-estilo.md`. Todos los agentes la siguen.
 - Formato **9:16 vertical** (reel de Facebook), resolución **720p SIEMPRE**.
 - Duración: **1 video de ~30 s** o **2 partes de ~20 s**. **Antes de empezar cada novela, preguntar a Diana cuál de las dos prefiere.**
 - Modelo de generación: **Seedance 2.5** en Higgsfield, con **voces y diálogos sincronizados** generados por Higgsfield.
@@ -32,6 +33,7 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
   - **No** pedir «dale me gusta», «comenta», «comparte» (Facebook lo castiga). Decisión de Diana: opción A.
 - Siempre activar la etiqueta de **contenido hecho con IA** al publicar en Facebook.
 - Nada ajeno: no usar caras o voces de personas reales o famosas, novelas o personajes conocidos, ni música con derechos.
+- **Marcas reales permitidas** (decisión de Diana) en ropa, motos y objetos, sin mostrarlas como patrocinio ni dejarlas mal.
 - Si Diana manda una referencia ajena, **adaptar la idea** al estilo propio sin copiar.
 
 ## Repositorio PÚBLICO
