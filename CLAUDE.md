@@ -19,11 +19,12 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
 ## Reglas de los videos
 - **Receta y estilo visual aprobados por Diana:** `contexto/receta-y-estilo.md`. Todos los agentes la siguen.
 - Formato **9:16 vertical** (reel de Facebook), resolución **720p SIEMPRE**.
+- **Sin subtítulos** ni texto en pantalla (decisión de Diana).
 - Duración: **1 video de ~30 s** o **2 partes de ~20 s**. **Antes de empezar cada novela, preguntar a Diana cuál de las dos prefiere.**
 - Modelo de generación: **Seedance 2.5** en Higgsfield, con **voces y diálogos sincronizados** generados por Higgsfield.
 - Prioridad: **máxima calidad gastando la menor cantidad de créditos posible**:
   1. Guion y prompts aprobados por Diana **antes** de generar nada.
-  2. Avisar el costo estimado en créditos **antes** de cada generación.
+  2. Informar el costo estimado en créditos de cada generación.
   3. Generar **un clip de prueba** primero; si Diana lo aprueba, generar el resto.
   4. Usar la menor cantidad de clips posible. No regenerar sin avisar.
 - **Gancho inicial**: los primeros 3 segundos deben atrapar.
@@ -39,13 +40,12 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
 ## Plan Higgsfield Ultra (comprado 2026-11-12)
 - Incluye **Seedance 2.5 ilimitado** hasta el **26 de noviembre de 2026**: **720p, clips de hasta 30 s, 1 generación a la vez**.
   Un video de 30 s se puede hacer en **un solo clip**.
-- **Ojo:** lo ilimitado funciona en la **página de Higgsfield**, pero el conector de Claude todavía no lo reconoce
-  (`unlim.available: false`). Mientras sea así:
-  1. El Productor revisa antes de cada video si el conector ya lo reconoce (`models_explore`, `unlim: true`).
+- **El Productor genera siempre** (Diana no genera a mano):
+  1. Antes de cada video revisa si el conector reconoce lo ilimitado (`models_explore`, `unlim: true`).
   2. Si **sí**: genera con `use_unlim: true`.
-  3. Si **no**: **no gasta créditos**. Entrega a Diana el prompt listo para pegar en higgsfield.ai
-     (Seedance 2.5, 9:16, 720p, duración exacta). Diana genera, descarga el video y lo sube al chat del Editor.
-- Nunca pasar a créditos sin preguntar a Diana. Referencia con créditos (720p): 20 s = 140, 30 s = 210.
+  3. Si **no**: genera **con créditos** (Diana lo autorizó el 2026-11-12). Solo informa el costo (`get_cost`), no hace falta pedir permiso aparte.
+- Igual se cuidan los créditos: guion y prompts aprobados antes de generar, no regenerar sin avisar, la menor cantidad de clips.
+- Referencia con créditos (720p): 20 s = 140, 30 s = 210.
 - No guardar en el repositorio el saldo de créditos.
 
 ## Repositorio PÚBLICO
