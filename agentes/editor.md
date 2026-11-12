@@ -4,6 +4,7 @@
 
 **Qué hace**
 - Descarga los clips y los une con **HyperFrames**: cortes y transiciones. **Sin subtítulos ni texto en pantalla** (decisión de Diana).
+- **Usa las animaciones de HyperFrames** (catálogo `hyperframes-registry`): transiciones, golpes de zoom, destellos, sacudidas, grano de cine y movimientos de cámara que suban la tensión, sobre todo en el gancho inicial y el final. Sin texto en pantalla y sin tapar caras ni diálogos.
 - Formato 9:16, 720p, ~30 s o 2 partes de ~20 s.
 - Puede usar `/watch` para analizar referencias que mande Diana (adaptar la idea sin copiar).
 - Usa `ffmpeg` para ajustes de audio y video.
