@@ -1,10 +1,10 @@
-# ¡LA LLAVE DEL PATRÓN! — Guion BORRADOR
+# ¡LA LLAVE DEL PATRÓN! — Guion APROBADO
 
 - **Formato:** 1 video de 30 s, un solo clip · 9:16 vertical · 720p · Seedance 2.5
 - **Género:** traición / venganza
 - **Sin** subtítulos, texto en pantalla, música ni narrador. Sin armas ni sangre. No se muestra el desenlace.
 - **Página / marca:** POR DEFINIR
-- **Estado:** BORRADOR, pendiente de aprobación de Diana. Ganchos por afinar con el AGENTE · Gancho.
+- **Estado:** APROBADO por Diana el 2026-11-12. Ganchos por afinar con el AGENTE · Gancho.
 
 ---
 
