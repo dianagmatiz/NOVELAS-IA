@@ -36,6 +36,14 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
 - **Marcas reales permitidas** (decisión de Diana) en ropa, motos y objetos, sin mostrarlas como patrocinio ni dejarlas mal.
 - Si Diana manda una referencia ajena, **adaptar la idea** al estilo propio sin copiar.
 
+## Plan Higgsfield Ultra (comprado 2026-11-12)
+- Incluye **14 días de Seedance 2.5 ilimitado en clips de hasta 20 s** (vence aprox. 2026-11-26, fecha exacta POR CONFIRMAR) y herramientas ilimitadas.
+- Mientras dure: **usar siempre lo ilimitado primero** (`use_unlim: true`). Clips de **20 s o menos**.
+  Para «1×30 s», armarlo con clips de hasta 20 s cubiertos por lo ilimitado y unirlos en edición.
+- Si lo ilimitado no está disponible o no cubre algo, **no pasar a créditos sin preguntar a Diana**: avisar y mostrar el costo.
+- Costo con créditos de referencia (720p, Seedance 2.5): 20 s = 140 créditos, 30 s = 210 créditos.
+- No guardar en el repositorio el saldo de créditos.
+
 ## Repositorio PÚBLICO
 - Aquí **no** va nada privado: contraseñas, precios, créditos de la cuenta, datos personales, conversaciones, ni los
   prompts de ejemplo de Diana (salvo que ella autorice guardarlos). Eso se entrega solo en el chat.
