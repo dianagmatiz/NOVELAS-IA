@@ -37,11 +37,15 @@ Reglas comunes para todos los agentes. Si algo de aquí choca con lo que diga Di
 - Si Diana manda una referencia ajena, **adaptar la idea** al estilo propio sin copiar.
 
 ## Plan Higgsfield Ultra (comprado 2026-11-12)
-- Incluye **14 días de Seedance 2.5 ilimitado en clips de hasta 20 s** (vence aprox. 2026-11-26, fecha exacta POR CONFIRMAR) y herramientas ilimitadas.
-- Mientras dure: **usar siempre lo ilimitado primero** (`use_unlim: true`). Clips de **20 s o menos**.
-  Para «1×30 s», armarlo con clips de hasta 20 s cubiertos por lo ilimitado y unirlos en edición.
-- Si lo ilimitado no está disponible o no cubre algo, **no pasar a créditos sin preguntar a Diana**: avisar y mostrar el costo.
-- Costo con créditos de referencia (720p, Seedance 2.5): 20 s = 140 créditos, 30 s = 210 créditos.
+- Incluye **Seedance 2.5 ilimitado** hasta el **26 de noviembre de 2026**: **720p, clips de hasta 30 s, 1 generación a la vez**.
+  Un video de 30 s se puede hacer en **un solo clip**.
+- **Ojo:** lo ilimitado funciona en la **página de Higgsfield**, pero el conector de Claude todavía no lo reconoce
+  (`unlim.available: false`). Mientras sea así:
+  1. El Productor revisa antes de cada video si el conector ya lo reconoce (`models_explore`, `unlim: true`).
+  2. Si **sí**: genera con `use_unlim: true`.
+  3. Si **no**: **no gasta créditos**. Entrega a Diana el prompt listo para pegar en higgsfield.ai
+     (Seedance 2.5, 9:16, 720p, duración exacta). Diana genera, descarga el video y lo sube al chat del Editor.
+- Nunca pasar a créditos sin preguntar a Diana. Referencia con créditos (720p): 20 s = 140, 30 s = 210.
 - No guardar en el repositorio el saldo de créditos.
 
 ## Repositorio PÚBLICO
