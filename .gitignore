@@ -1,0 +1,8 @@
+# Los videos y audios no se suben (repositorio público y archivos pesados)
+*.mp4
+*.mov
+*.webm
+*.mp3
+*.wav
+*.m4a
+trabajo/
