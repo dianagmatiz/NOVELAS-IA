@@ -25,7 +25,7 @@ Duración: [30 s en 1 video / 2 partes de 20 s].
 Formato: vertical 9:16, 720p. Estilo novela mexicana o colombiana hiperrealista, con actores reales y fotografía cinematográfica profesional.
 Iluminación muy clara, escenas de día o interiores bien iluminados. Cámara con movimientos fluidos, seguimiento de personajes, primeros planos de objetos, rostros y reacciones.
 Conflicto intenso desde el primer segundo. Acción física durante los diálogos, sin personajes quietos ni tiempos muertos.
-Español natural, frases cortas y fáciles de pronunciar. Una sola persona habla a la vez. Sin música, narrador, subtítulos ni textos en pantalla.
+Español natural, frases cortas y fáciles de pronunciar. Una sola persona habla a la vez. Audio: solo voces y sonido ambiente natural y suave; sin efectos de sonido llamativos. Sin música, narrador, subtítulos ni textos en pantalla.
 El protagonista mira a cámara únicamente al comenzar el gancho final, que ocupa aproximadamente los últimos 9 segundos.
 No mostrar cómo se resuelve el conflicto. Sin pantalla negra ni efectos de transición.
 
