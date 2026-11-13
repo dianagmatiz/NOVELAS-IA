@@ -10,6 +10,9 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 - Los jueces observan desde una mesa.
 - Final: primerísimo plano de la joven, con lágrimas, que mira a cámara y habla (gancho final), con la chef desenfocada detrás.
 
+## Trama
+Trama (según el Guionista): en un concurso de cocina en la plaza, Rosa descubre que su rival Isabela tiene la libreta de recetas de su abuela y concursa con su mole. Isabela no lo niega y presume que el premio ya es suyo.
+
 ## Pendiente (POR DEFINIR)
 - Diálogos completos: no pude oír el audio. La frase final ya está confirmada por Gancho.
 - Qué hizo la chef de negro, según el guion.

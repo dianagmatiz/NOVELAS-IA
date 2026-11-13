@@ -11,6 +11,10 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 - ~0:19 Los invitados miran con las manos en la boca, en shock.
 - 0:19–0:29 Primerísimo plano de la del vestido blanco, llorando, que mira a cámara y habla (gancho final).
 
+## Trama
+Trama (según el Guionista): en su fiesta de compromiso, Camila encuentra la prueba de embarazo positiva de su hermana Sofía; es de Diego, el prometido de Camila. Camila avienta su anillo al pastel.
+OJO: el Guionista escribió el gancho «…a mi hermana y a mi prometido por traicionarme…» y Gancho «…a los dos que me traicionaron en mi propia fiesta…». Usé la de Gancho; falta confirmar cuál dice el video.
+
 ## Pendiente (POR DEFINIR)
 - Diálogos completos: no pude oír el audio. La frase final ya está confirmada por Gancho.
 - Enlace de la página de Diana.

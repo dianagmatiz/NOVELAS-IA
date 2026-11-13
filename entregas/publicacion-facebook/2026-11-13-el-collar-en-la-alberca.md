@@ -10,6 +10,9 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 - Primerísimos planos de la mujer del sombrero, sorprendida, con los lentes en la mano.
 - Final: primer plano de la empleada, seria, que habla a cámara (gancho final), con la mujer del sombrero detrás.
 
+## Trama
+Trama (según el Guionista): la patrona Regina acusa de ladrona a Doña Lupita, su empleada, y le avienta el mandil y el pago a la alberca frente a los invitados. Santiago, hijo de Regina, abre la bolsa de su mamá y ahí está el collar: nadie lo robó. (Por eso el collar no se ve en el video.)
+
 ## Pendiente (POR DEFINIR)
 - Diálogos completos: no pude oír el audio. La frase final ya está confirmada por Gancho.
 - El collar del título no lo vi en los cuadros revisados; confirmar con el guion qué pasa con él.
