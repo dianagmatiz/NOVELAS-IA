@@ -1,0 +1,41 @@
+# Borrador de publicación · «¡El collar en la alberca!»
+
+Estado: BORRADOR. No publicar sin el visto bueno de Diana.
+Video: 30 s, 9:16, 720p, sin texto en pantalla.
+
+## Lo que se ve en el video (revisado con un cuadro cada 3 s)
+- Junto a una alberca de una hacienda, una mujer elegante (sombrero de paja, vestido blanco, lentes oscuros) discute y forcejea con una empleada de uniforme gris.
+- Hay invitados mirando al fondo y un joven de camisa turquesa que se acerca.
+- Billetes y un sobre flotan en la alberca.
+- Primerísimos planos de la mujer del sombrero, sorprendida, con los lentes en la mano.
+- Final: primer plano de la empleada, seria, que habla a cámara (gancho final), con la mujer del sombrero detrás.
+
+## Pendiente (POR DEFINIR)
+- Diálogos exactos y frase final del gancho: no se pueden oír sin transcripción.
+- El collar del título no lo vi en los cuadros revisados; confirmar con el guion qué pasa con él.
+- Enlace de la página de Diana.
+
+## Texto del reel (borrador)
+Billetes flotando en la alberca y todos mirando… ¿quién dice la verdad? 😳
+¿Quieres ver cómo hice pagar a quien me acusó? La continuación está en el primer comentario.
+
+(Ajustar la última pregunta a la frase exacta del video cuando tenga el guion.)
+
+## Hashtags (5)
+#novela #drama #justicia #venganza #historiasdeamor
+
+## Primer comentario
+La continuación de esta historia está aquí 👉 [ENLACE DE LA PÁGINA — POR DEFINIR]
+
+## Portada
+Recomendada: billetes y sobre flotando en la alberca (~0:09).
+Alternativa: primer plano de la empleada, seria (~0:25).
+
+## Revisión antes de publicar
+- [ ] Etiqueta de **contenido hecho con IA** activada
+- [x] No pide «me gusta», «comenta» ni «comparte»
+- [x] Sin texto en pantalla
+- [ ] Música/sonidos sin derechos (confirmar con el Editor)
+- [ ] Sin personas famosas (revisar al ver el video completo)
+- [ ] Marcas reales: no vi ninguna clara en los cuadros revisados
+- [ ] Enlace de la página puesto en el primer comentario
