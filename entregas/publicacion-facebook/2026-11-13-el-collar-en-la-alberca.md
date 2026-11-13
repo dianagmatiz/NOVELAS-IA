@@ -11,15 +11,15 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 - Final: primer plano de la empleada, seria, que habla a cámara (gancho final), con la mujer del sombrero detrás.
 
 ## Pendiente (POR DEFINIR)
-- Diálogos exactos y frase final del gancho: no se pueden oír sin transcripción.
+- Diálogos completos: no pude oír el audio. La frase final ya está confirmada por Gancho.
 - El collar del título no lo vi en los cuadros revisados; confirmar con el guion qué pasa con él.
 - Enlace de la página de Diana.
 
 ## Texto del reel (borrador)
 Billetes flotando en la alberca y todos mirando… ¿quién dice la verdad? 😳
-¿Quieres ver cómo hice pagar a quien me acusó? La continuación está en el primer comentario.
+¿Quieres ver cómo hice que la patrona que me humilló pagara frente a todos? La continuación está en el primer comentario.
 
-(Ajustar la última pregunta a la frase exacta del video cuando tenga el guion.)
+(Frase final tomada del agente Gancho; confirmar con Prompts que el video final la dice igual.)
 
 ## Hashtags (5)
 #novela #drama #justicia #venganza #historiasdeamor

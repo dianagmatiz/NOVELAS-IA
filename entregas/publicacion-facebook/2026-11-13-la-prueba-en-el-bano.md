@@ -18,9 +18,9 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 
 ## Texto del reel (borrador)
 Una prueba, un anillo en el pastel y toda la fiesta en silencio. 😳
-Lo que pasó en esta boda cambió todo. ¿Quieres ver cómo hice pagar a quien me traicionó? La continuación está en el primer comentario.
+Lo que pasó en esta boda cambió todo. ¿Quieres ver cómo hice pagar a los dos que me traicionaron en mi propia fiesta? La continuación está en el primer comentario.
 
-(Ajustar la última pregunta a la frase exacta del video cuando tenga el guion.)
+(Frase final tomada del agente Gancho; confirmar con Prompts que el video final la dice igual.)
 
 ## Hashtags (5)
 #novela #drama #traicion #venganza #historiasdeamor

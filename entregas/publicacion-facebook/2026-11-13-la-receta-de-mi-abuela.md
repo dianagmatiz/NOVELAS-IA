@@ -11,15 +11,15 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 - Final: primerísimo plano de la joven, con lágrimas, que mira a cámara y habla (gancho final), con la chef desenfocada detrás.
 
 ## Pendiente (POR DEFINIR)
-- Diálogos exactos y frase final del gancho: no se pueden oír sin transcripción.
+- Diálogos completos: no pude oír el audio. La frase final ya está confirmada por Gancho.
 - Qué hizo la chef de negro, según el guion.
 - Enlace de la página de Diana.
 
 ## Texto del reel (borrador)
 Un libro viejo, una olla humeante y toda la plaza mirando. 😳
-¿Quieres ver cómo hice pagar a quien me quitó la receta de mi abuela? La continuación está en el primer comentario.
+¿Quieres ver cómo hice pagar a la que me robó la receta de mi abuela? La continuación está en el primer comentario.
 
-(Ajustar la última pregunta a la frase exacta del video cuando tenga el guion.)
+(Frase final tomada del agente Gancho; confirmar con Prompts que el video final la dice igual.)
 
 ## Hashtags (5)
 #novela #drama #justicia #recetas #historiasdeamor
