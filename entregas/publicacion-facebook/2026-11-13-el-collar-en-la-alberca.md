@@ -35,7 +35,7 @@ Alternativa: primer plano de la empleada, seria (~0:25).
 - [ ] Etiqueta de **contenido hecho con IA** activada
 - [x] No pide «me gusta», «comenta» ni «comparte»
 - [x] Sin texto en pantalla
-- [ ] Música/sonidos sin derechos (confirmar con el Editor)
+- [x] Sin música ni efectos de sonido (versión nueva del Editor, a pedido de Diana)
 - [ ] Sin personas famosas (revisar al ver el video completo)
 - [ ] Marcas reales: no vi ninguna clara en los cuadros revisados
 - [ ] Enlace de la página puesto en el primer comentario

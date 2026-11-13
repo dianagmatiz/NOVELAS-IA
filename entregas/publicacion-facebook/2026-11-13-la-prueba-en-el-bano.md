@@ -35,7 +35,7 @@ Alternativa: primer plano de la protagonista llorando (~0:19).
 ## Revisión antes de publicar
 - [ ] Etiqueta de **contenido hecho con IA** activada
 - [x] No pide «me gusta», «comenta» ni «comparte»
-- [x] Sin música con derechos (sonidos propios, según el Editor)
+- [x] Sin música ni efectos de sonido (versión nueva del Editor, a pedido de Diana)
 - [x] Sin texto en pantalla
 - [ ] Sin personas famosas (revisar al ver el video completo)
 - [ ] Marcas reales: ninguna visible en los cuadros revisados; si aparece alguna, que no parezca patrocinio
