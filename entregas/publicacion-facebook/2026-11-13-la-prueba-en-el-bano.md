@@ -12,7 +12,7 @@ Video: 30 s, 9:16, 720p, sin texto en pantalla.
 - 0:19–0:29 Primerísimo plano de la del vestido blanco, llorando, que mira a cámara y habla (gancho final).
 
 ## Pendiente (POR DEFINIR)
-- Diálogos exactos y frase final del gancho: no pude escucharlos (el video no tiene subtítulos ni transcripción). Los necesito del guion aprobado.
+- Diálogos completos: no pude oír el audio. La frase final ya está confirmada por Gancho.
 - Enlace de la página de Diana.
 - Quién es quién y qué hizo cada uno: lo tomo del guion.
 
