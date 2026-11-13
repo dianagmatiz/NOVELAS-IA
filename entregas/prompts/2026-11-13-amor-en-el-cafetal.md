@@ -1,9 +1,9 @@
-# Prompt · ¡AMOR EN EL CAFETAL!
+# Prompt APROBADO · ¡AMOR EN EL CAFETAL!
 
 - **Base:** guion (rama `agente/guionista`) + ganchos (rama `agente/gancho`) + `contexto/receta-y-estilo.md`.
 - **Clips:** 1 solo clip de 30 s (Seedance 2.5, 720p, 9:16).
 - **Costo estimado:** 0 créditos con el plan Ultra ilimitado. Si el ilimitado no lo reconoce: ~210 créditos.
-- **Estado:** LISTO. Pendiente: confirmación de Diana para pasarlo directo al Productor.
+- **Estado:** APROBADO por Diana el 2026-11-13.
 
 ---
 

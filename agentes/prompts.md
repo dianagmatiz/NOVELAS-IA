@@ -14,3 +14,6 @@
 - Nada de caras, voces o nombres de personas reales o famosas.
 
 **Cómo entrega:** `entregas/prompts/AAAA-MM-DD-titulo.md`, mostrado en el chat para aprobar antes de generar.
+
+**Permiso permanente (Diana, 2026-11-13, «sí, para todos»):** cuando el Coordinador avise que Diana ya aprobó los guiones,
+los prompts se pasan **directo al Productor** sin pedirle un «sí» aparte. Igual se le muestran en el chat.
