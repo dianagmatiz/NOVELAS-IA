@@ -6,6 +6,7 @@ Solo la estructura: los prompts de ejemplo de Diana son privados y no van aquí.
 ## Decisiones de Diana
 - Resolución **720p** siempre (no 4K).
 - Gancho final **sin** «dale me gusta»: termina en «La continuación está en el primer comentario.»
+- **Pocos efectos de audio:** que mande el diálogo; nada de sonidos exagerados.
 - **Marcas reales permitidas** (motos, ropa, objetos): ayudan a que el público conecte con la novela.
 
 ## Estilo visual (aprobado por Diana, a partir de sus videos)
