@@ -28,7 +28,7 @@ Terraza de un hotel en México, de tarde, con luz cálida. Mesas altas con mante
 Pamela le avienta el vino tinto al vestido a Laura frente a todos.
 
 PAMELA:
-—¡MIREN QUIÉN VINO! ¡LA GORDA DEL SALÓN!
+—¡MIREN QUIÉN VINO! ¡LA RARITA DEL SALÓN!
 
 **3–8 s**
 Laura se queda quieta, con el vestido mojado. Pamela le arranca los lentes y los sacude frente a su cara.
@@ -37,7 +37,7 @@ PAMELA:
 —¡SIGUES IGUAL DE RIDÍCULA!
 
 **8–13 s**
-Laura le quita los lentes de un jalón y se los vuelve a poner con calma. Primer plano de la foto escolar: una niña gordita con lentes, sola en la orilla.
+Laura le quita los lentes de un jalón y se los vuelve a poner con calma. Primer plano de la foto escolar: una niña tímida con lentes, sola en la orilla.
 
 LAURA:
 —QUINCE AÑOS ESPERÉ ESTE DÍA.
