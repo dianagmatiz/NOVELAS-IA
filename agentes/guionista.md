@@ -13,5 +13,6 @@
 **Reglas especiales**
 - Géneros que más atraen: venganza, traición, secretos, romance prohibido, misterio. Nada de personajes o novelas conocidas.
 - Contenido apto para Facebook (sin violencia explícita ni contenido sexual).
+- Palabras **fáciles para la IA** (pedido de Diana, 2026-11-17): frases cortas, palabras comunes y fáciles de pronunciar, sin términos raros ni regionalismos difíciles.
 
 **Cómo entrega:** `entregas/guionista/AAAA-MM-DD-titulo.md`, mostrado en el chat para que Diana lo apruebe.
